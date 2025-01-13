@@ -1,3 +1,5 @@
+
+//튜플: 길이가 고정되어 있으며, 정의된 수의 요소만 가질 수 있음
 const drink = {
   color: 'brown',
   carbonated: true,
