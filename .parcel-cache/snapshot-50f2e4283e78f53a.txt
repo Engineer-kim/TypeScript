@@ -1,4 +1,4 @@
-652
+653
 70C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\LICENSE133815020397920799 0
 85C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\locale\cs_CZ.d.ts133815020899412649 0
 83C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\locale\de.d.cts133815020672295437 0
@@ -18,7 +18,7 @@
 46C:\Users\hammo\Desktop\TypeScript\package.json133816651893847842 0
 86C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\chunk-JACE2SPR.cjs133815020544472550 0
 86C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\chunk-ZON53C5K.cjs133815020654050715 0
-43C:\Users\hammo\Desktop\TypeScript\README.md133816711447312505 0
+43C:\Users\hammo\Desktop\TypeScript\README.md133821914756287301 0
 72C:\Users\hammo\Desktop\TypeScript\example01\node_modules\axios\README.md133810634256280164 0
 66C:\Users\hammo\Desktop\TypeScript\node_modules\base64-js\README.md133816647524007856 0
 62C:\Users\hammo\Desktop\TypeScript\node_modules\faker\Readme.md133815035806042401 0
@@ -125,14 +125,14 @@
 72C:\Users\hammo\Desktop\TypeScript\node_modules\@types\faker\package.json133815035810470088 0
 69C:\Users\hammo\Desktop\TypeScript\node_modules\@types\faker\README.md133815035810460127 0
 67C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist133815020899661816 1
-51C:\Users\hammo\Desktop\TypeScript\maps\src\index.ts133816712457465368 0
+51C:\Users\hammo\Desktop\TypeScript\maps\src\index.ts133821910164965148 0
 83C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\locale\mk.d.cts133815020675043304 0
 80C:\Users\hammo\Desktop\TypeScript\example01\node_modules\combined-stream\License133810634255956232 0
 86C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\chunk-2E56I76D.cjs133815020399351705 0
 88C:\Users\hammo\Desktop\TypeScript\example01\node_modules\axios\lib\core\buildFullPath.js133810634256035952 0
 85C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\chunk-NCUDWWYB.js133815020897578783 0
 83C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\locale\en_GB.js133815020898625283 0
-61C:\Users\hammo\Desktop\TypeScript\maps\dist\index.4990598b.js133816714542174875 0
+61C:\Users\hammo\Desktop\TypeScript\maps\dist\index.4990598b.js133821914878145904 0
 86C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\chunk-2IYI4PA4.cjs133815020405120656 0
 83C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\locale\lv.d.cts133815020675043304 0
 83C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\locale\ru.d.cts133815020675113073 0
@@ -152,6 +152,7 @@
 85C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\chunk-4AG6ERXU.js133815020817234538 0
 83C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\locale\el.d.cts133815020672795264 0
 86C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\chunk-4LBG2FVT.cjs133815020434444025 0
+55C:\Users\hammo\Desktop\TypeScript\maps\src\CustomMap.ts133821910648106770 0
 86C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\chunk-4PIIKQCR.cjs133815020436119639 0
 82C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\locale\he.d.ts133815020899641881 0
 85C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\chunk-4VOBSUYO.js133815020820860251 0
@@ -193,7 +194,7 @@
 82C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\locale\fr.d.ts133815020899641881 0
 86C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\chunk-BEEM5R4O.cjs133815020468189977 0
 84C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\locale\en_IN.cjs133815020654762097 0
-42C:\Users\hammo\Desktop\TypeScript\maps\src133816643560974873 1
+42C:\Users\hammo\Desktop\TypeScript\maps\src133821909738436974 1
 86C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\chunk-BFJME6XU.cjs133815020471429789 0
 86C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\chunk-BSA4ZYD4.cjs133815020474016546 0
 85C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\chunk-BU2DRFMZ.js133815020886880917 0
@@ -269,8 +270,8 @@
 86C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\chunk-KOSZL2AW.cjs133815020561484081 0
 85C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\locale\yo_NG.d.ts133815020900000709 0
 86C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\chunk-KYD2KJ6N.cjs133815020565008425 0
-86C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\chunk-WZDENE4D.cjs133815020637861503 0
 49C:\Users\hammo\Desktop\TypeScript\feature\type.ts133811538011198846 0
+86C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\chunk-WZDENE4D.cjs133815020637861503 0
 86C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\chunk-L54IINR6.cjs133815020571030073 0
 85C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\chunk-LJRSUQNE.js133815020897249884 0
 86C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\locale\en_GH.d.cts133815020672824833 0
@@ -554,11 +555,11 @@
 61C:\Users\hammo\Desktop\TypeScript\maps\.parcel-cache\data.mdb133813280372060166 0
 83C:\Users\hammo\Desktop\TypeScript\node_modules\@faker-js\faker\dist\locale\zu_ZA.js133815020899043884 0
 52C:\Users\hammo\Desktop\TypeScript\maps\.parcel-cache133813280364334000 1
-43C:\Users\hammo\Desktop\TypeScript\maps\dist133816714542284514 1
-53C:\Users\hammo\Desktop\TypeScript\maps\src\Company.ts133816646747505142 0
+43C:\Users\hammo\Desktop\TypeScript\maps\dist133821914878245572 1
+53C:\Users\hammo\Desktop\TypeScript\maps\src\Company.ts133821912049721354 0
 55C:\Users\hammo\Desktop\TypeScript\feature\interfaces.ts133812319653983565 0
-50C:\Users\hammo\Desktop\TypeScript\maps\src\User.ts133816642988918845 0
-65C:\Users\hammo\Desktop\TypeScript\maps\dist\index.4990598b.js.map133816714542244647 0
+50C:\Users\hammo\Desktop\TypeScript\maps\src\User.ts133821912800561264 0
+65C:\Users\hammo\Desktop\TypeScript\maps\dist\index.4990598b.js.map133821914878235606 0
 61C:\Users\hammo\Desktop\TypeScript\maps\dist\index.b71e74eb.js133813280372080101 0
 82C:\Users\hammo\Desktop\TypeScript\example01\node_modules\asynckit\serialOrdered.js133810634256025993 0
 65C:\Users\hammo\Desktop\TypeScript\maps\dist\index.b71e74eb.js.map133813280372100033 0
